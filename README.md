@@ -42,3 +42,7 @@ Show your hand to the camera, press `Esc` to quit.
 pip install pytest
 pytest
 ```
+
+## License
+
+[MIT](LICENSE)
